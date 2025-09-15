@@ -1,3 +1,8 @@
+# Note
+
+This is NOT my real repository, that is one called 2-random-permutations-DJanneyNCC. I will try to keep the same code in both just in case of an error, but no guarantees.
+
+
 # Random Permutations
 
 Please see exercise 2.8 on page 72 of the textbook. The problem presents three different algorithms for populating an array of size N with a random permutation of the values from 1 through N.
